@@ -1,0 +1,1 @@
+void fetchPost() {  const String BaseUrl = 'https://jsonplaceholder.typicode.com/posts/1';  //TODO(task1): fetch list of posts from api using http library}
