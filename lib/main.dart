@@ -21,6 +21,7 @@ class MyApp extends StatelessWidget {
             //TODO(task1): print the post coming from the api
             //TODO(task2): store the the post coming from api in local
             //TODO(task2): get the post from local db and print the post title
+            ///TODO(task3) design Column with tow text and print the result of task1 in the first Text widget and print the result of task2 in the second Text widget
             child: Text("Hello!!"),
           ),
         ),
